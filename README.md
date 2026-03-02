@@ -50,3 +50,9 @@ This can be done on a system with kernel headers installed using:
 ```
 ln -s /usr/src/linux-headers-`uname -r`/ linux_source_cdt
 ```
+
+
+
+Acknowledgements:
+1. https://chatgpt.com/share/69a4f67c-82c0-8006-8ba2-6209d220cc70
+2. https://chatgpt.com/share/69a4f68c-8b60-8006-8028-63b78fb3ec45
